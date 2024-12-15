@@ -18,3 +18,4 @@
 # specified file.
 
 hash valkey-1.0.6.tar.gz sha256 09e81a4c6c31e388df7697f61b4d524dca79bc69025b75bce8ff5f5ed52f43e1 https://github.com/Autxmaton/valkey/archive/refs/tags/1.0.6.tar.gz
+hash valkey-1.0.7.tar.gz sha256 6bf144d8d28b80a570c09dd968ff99c803ee41270b8b003cb2f00e0b508fa061 https://github.com/Autxmaton/valkey/archive/refs/tags/1.0.7.tar.gz
