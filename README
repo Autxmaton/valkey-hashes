@@ -25,3 +25,4 @@ hash valkey-4.0.0.tar.gz sha256 d6e38df2d2a36125b710425e6d99beea6268503083be7d7b
 hash valkey-4.0.1.tar.gz sha256 c5ec2aa1e779bfcf7015ee007526127f8b3f6d0a0ff9c8dbe44e314c74d2052f https://github.com/Autxmaton/valkey/archive/refs/tags/4.0.1.tar.gz
 hash valkey-unstable.tar.gz sha256 e13fd61dbeda89adba849167cdf05ea1caecb22750d62dd5072a875ca7b4f92f https://github.com/Autxmaton/valkey/archive/refs/tags/unstable.tar.gz
 hash valkey-8.0.0.tar.gz sha256 8d72d7301f2ecce5bb53a580702aeffce07370ee96ab7ff2174cfbac91608f9f https://github.com/Autxmaton/valkey/archive/refs/tags/8.0.0.tar.gz
+hash valkey-8.0.1.tar.gz sha256 fcfaea695944e0f360e2c766ac71e4d6b26ad5a9189e3e3362baec8178629b34 https://github.com/Autxmaton/valkey/archive/refs/tags/8.0.1.tar.gz
